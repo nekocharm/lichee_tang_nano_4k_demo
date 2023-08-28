@@ -1,0 +1,5 @@
+EMCU/Listing/*
+EMCU/Output/*
+EMCU/Project/*.uvguix.*
+FPGA/*.user
+FPGA/impl/*
